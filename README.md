@@ -13,3 +13,7 @@
 所有文件均为md格式，每次push前记得先pull下最新版本，push前在群内说明一声防止同时提交出现的麻烦的冲突。
 
 有问题再补充
+
+
+
+历年国赛优秀论文：https://dxs.moe.gov.cn/zx/hd/sxjm/sxjmlw/qkt_sxjm_lw_lwzs.shtml
